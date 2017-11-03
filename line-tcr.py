@@ -22,16 +22,16 @@ kc.login(qr=True)
 kc.loginResult()
 
 #cl = LINETCR.LINE()
-#cl.login(token="jZSmU9ydkL/5LLlzws4K0G.wTZgOHTvttpa4bNP211zddkmpZ/UABrUYdyZsiE+jV0=")
+#cl.login(token="")
 
 #ki = LINETCR.LINE()
-#ki.login(token=".AdwsOc5Hv5EoYZqnTP5r6G.pwWEMKa9rZ9GXixJN708dYXsxTA+SJKBSBUPtoFZ8Qs=")
+#ki.login(token="")
 
 #kk = LINETCR.LINE()
-#kk.login(token="ElLphy7JIBxL1KFINtsc.sUM8MnaQEk/ZURlccQg8Ra.th+/zjs992OFkxjgvmgYSOixhbY6hMYFqlU=")
+#kk.login(token="")
 
 #kc = LINETCR.LINE()
-#kc.login(token="El6SqNax4XMYtpfKi8Nd.t+gWXcagC1aL1QTzGuMA7q.NlYrJRL+Xgw7bmg9YCH+rUM4NpJEYjs2CWE=")
+#kc.login(token="")
 
 
 print "login success"
